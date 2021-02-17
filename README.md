@@ -5,9 +5,10 @@ code for more info.)
 
 # Contact Me 📞 :
 ## Instagram :
-https://www.instagram.com/py5ive/
-## OR
-https://www.instagram.com/__manas07__/
+https://www.instagram.com/py5ive
+
+
+
 
 ## Telegram :
 https://t.me/py5ive
